@@ -1,0 +1,14 @@
+.fab-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 100;
+
+    .fab {
+        background-color: #45b1f5;
+        color: white;
+        &:hover {
+            background-color: #368dcf;
+        }
+    }
+}

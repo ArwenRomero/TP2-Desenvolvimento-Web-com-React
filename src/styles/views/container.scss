@@ -1,0 +1,15 @@
+.container {
+    max-width: 1200px;  /* Largura máxima */
+    margin: 0 auto;    /* Centraliza o container */
+    padding: 20px;     /* Espaçamento interno */
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    box-sizing: border-box; /* Garante que o padding não afete a largura total */
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;  /* Menos padding em telas menores */
+    }
+}

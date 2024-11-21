@@ -1,0 +1,19 @@
+{
+    "app_title": "TP2 Arwen",
+    "home": "Home",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "DashBoard": "Dashboard",
+    "not_found": "Page not found",
+    "go_back_home": "VOltar para Home",
+    "form": {
+        "email": "Email",
+        "password": "Password",
+        "confirm_password": "Confirm Password",
+        "submit": "Submit",
+        "forgot_password": "Forgot Password?"
+    },
+    "settings": "settings",
+    "developed_by": "Developed by Marcos Ryan",
+    "all_rights_reserved": "©2024 Marcos Ryan. All rights reserved."
+}
